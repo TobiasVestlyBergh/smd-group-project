@@ -10,13 +10,13 @@ Our group consists of five members. Each member is responsible for developing on
 
 ## Modules and Responsibilities
 
-| Member | Module | Shared Team Job |
-|---|---|---|
-| Member 1 — Tobias | Expenses | GitHub repository and project board management |
-| Member 2 — Name | Members | Project documentation |
-| Member 3 — Name | Budgets | Database coordination |
-| Member 4 — Name | Settlements | Testing coordination |
-| Member 5 — Name | Monthly Reports | API integration coordination |
+| Member | GitHub Username | Module | Shared Team Job |
+|---|---|---|---|
+| Tobias | @TobiasVestlyBergh | Expenses | GitHub repository and project board management |
+| Reem | @reemmirza | Members | Project documentation |
+| Javi | @javiiregui | Budgets | Database coordination |
+| Daniela | @danielabachillerbracco | Settlements | Testing coordination |
+| Yosua | @yoszgar | Monthly Reports | API integration coordination |
 
 ## Module Descriptions
 
